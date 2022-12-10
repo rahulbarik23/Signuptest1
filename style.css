@@ -1,0 +1,223 @@
+.body{
+    position: absolute;
+width: 1728px;
+height: 1117px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+}
+h1{
+    position: absolute;
+width: 600px;
+height: 144px;
+left: 202px;
+top: 154px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #FFFFFF;
+}
+
+input{
+    display: block;
+    width: 1177px;
+    height: 40px;
+    margin: 20px;
+    border: none;
+    font-size: 20px;
+    border-bottom: 1px solid white;
+    background: transparent;
+    
+}
+.name{
+    position: absolute;
+width: 1177px;
+height: 29px;
+left: 202px;
+top: 278px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.email{
+position: absolute;
+width: 1177px;
+height: 29px;
+left: 202px;
+top: 352px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.password{
+    position: absolute;
+width: 1177px;
+height: 29px;
+left: 202px;
+top: 426px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.cpassword{
+    position: absolute;
+width: 1177px;
+height: 29px;
+left: 202px;
+top: 500px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.dob{
+    position: absolute;
+width: 1177px;
+height: 29px;
+left: 202px;
+top: 574px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.student{
+position: absolute;
+width: 244px;
+height: 29px;
+left: 250px;
+top: 670px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.employee{
+    position: absolute;
+width: 244px;
+height: 29px;
+left: 425px;
+top: 670px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+#Student{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    left: 202px;
+    top: 656px;
+    
+    border: 1px solid #FFFFFF;
+    border-radius: 1000px;
+}
+#Employee{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    left: 383px;
+    top: 656px;
+    
+    border: 1px solid #FFFFFF;
+    border-radius: 1000px;
+}
+button{
+    position: absolute;
+width: 226px;
+height: 58px;
+left: 198px;
+top: 808px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+
+background: #FFFFFF;
+}
+.form-check-input{
+box-sizing: border-box;
+position: absolute;
+width: 21px;
+height: 21px;
+left: 198px;
+top: 713px;
+
+border: 1px solid #FFFFFF;
+}
+.form-check-label{
+position: absolute;
+width: 430px;
+height: 29px;
+left: 250px;
+top: 728px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
